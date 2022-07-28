@@ -15,8 +15,8 @@
       - SonarQube
 
 :environment:
-  - :he_wolfssl_source: https://github.com/wolfSSL/wolfssl
-  - :he_wolfssl_commit: v5.4.0-stable
+  - :he_wolfssl_source: https://github.com/SparkiDev/wolfssl
+  - :he_wolfssl_commit: clang-x86
 
 :tools_test_file_preprocessor:
   :arguments:
